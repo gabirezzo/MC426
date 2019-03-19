@@ -4,9 +4,9 @@ Projeto de Engenharia de Software MC426
 
 Alunos:
 Gabriela Vitoria Rezzo de Souza
-Érick Kussumoto do Nascimento
+Erick Kussumoto do Nascimento
 Samuel Batista de Souza
-Rafael Scherr
+Rafael Scherer
 Caio Augusto Nolasco
 
 Proposta:
